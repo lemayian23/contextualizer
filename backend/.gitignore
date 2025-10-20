@@ -1,0 +1,10 @@
+# Project specific 
+backend/uploads/ 
+backend/.env 
+frontend/.env 
+infra/.env 
+ 
+# Keep the example env files 
+!.env.example 
+!backend/.env.example 
+!frontend/.env.example 
