@@ -54,13 +54,13 @@ Installation
 Clone the repository
 
 bash
-git clone https://github.com/e/contextualizer.git
+git clone https://github.com/lemayian23/contextualizer.git
 cd contextualizer
 Set up environment variables
 
 bash
 copy .env.example .env
-# Edit .env with your API keys and configuration
+# Edit .env with your API keys and configuration(one's provided are for my personal project)
 Start infrastructure
 
 bash
