@@ -78,7 +78,7 @@ Start the application
 bash
 # Terminal 1 - Backend API
 cd backend
-uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
+uvicorn app.main:app --reload --host 0.0.0.0 --port 8000 //Set it to your default
 
 # Terminal 2 - Celery Worker
 cd backend
