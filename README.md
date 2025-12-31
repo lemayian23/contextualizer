@@ -54,7 +54,7 @@ Installation
 Clone the repository
 
 bash
-git clone https://github.com/your-username/contextualizer.git
+git clone https://github.com/e/contextualizer.git
 cd contextualizer
 Set up environment variables
 
