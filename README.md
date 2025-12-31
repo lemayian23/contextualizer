@@ -1,4 +1,4 @@
-🎙️ Contextualizer - Intelligent Meeting Note Taker & Knowledge Base
+ m, mmmmmmmmmmmmmmmmmmmmmmmm🎙️ Contextualizer - Intelligent Meeting Note Taker & Knowledge Base
 An AI-powered meeting assistant that generates structured notes, action items, and automatically archives them in a searchable knowledge base.
 
 🚀 One-Line Pitch
@@ -17,6 +17,9 @@ Production-ready: Idempotent processing, dead-letter queues, detailed observabil
 Semantic Search: Hybrid search (keyword + semantic) across all meeting content
 
 Real-time Processing: Background processing with progress tracking
+
+
+Only minimum viable product(MVP) will be achieved during first production and shipping of the product
 
 🏗️ Architecture
 text
