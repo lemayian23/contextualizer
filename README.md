@@ -262,3 +262,7 @@ Check the API Documentation
 Review application logs
 
 Open an issue on GitHub
+
+/... Awaiting shipment/
+
+...Additional features coming soon ...
