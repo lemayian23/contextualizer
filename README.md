@@ -1,4 +1,4 @@
- m, mmmmmmmmmmmmmmmmmmmmmmmm🎙️ Contextualizer - Intelligent Meeting Note Taker & Knowledge Base
+ 🎙️ Contextualizer - Intelligent Meeting Note Taker & Knowledge Base
 An AI-powered meeting assistant that generates structured notes, action items, and automatically archives them in a searchable knowledge base.
 
 🚀 One-Line Pitch
@@ -254,7 +254,7 @@ Port conflicts: Update ports in infra/docker-compose.yml
 
 Python version: Use Python 3.11 for compatibility
 
-API keys: Ensure all required API keys are in .env
+API keys: All API keys are in .env file
 
 Getting Help
 Check the API Documentation
@@ -266,3 +266,4 @@ Open an issue on GitHub
 /... Awaiting shipment/
 
 ...Additional features coming soon ...
+
